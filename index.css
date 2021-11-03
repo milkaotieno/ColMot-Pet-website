@@ -1,0 +1,107 @@
+.nav{
+    display: flex;
+  
+  
+  
+  }
+  ul{
+    margin-left: 550px;
+    list-style: none;
+  }
+  li{
+    padding: 10px 30px ;
+    display: inline-block;
+  
+  }
+  
+  
+  #Pet1 {
+    margin-right: 70%;
+    font-size: 700;
+  }
+  
+  #Pet1 h2{
+  margin-top: 20%;
+  margin-right: 50%;
+  position: relative;
+  right: 100%;
+  font-size: 900;
+  font-weight: 400;
+  font-style: italic;
+  }
+  .Col {
+    display: flex;
+  }
+  .Col p {
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 10%;
+    font-size: 700;
+    font-style: italic;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .Col img {
+    margin-left: 1%;
+    border-radius:  50%;
+  }
+  .Feed {
+    margin-top: 1.5%;
+    margin-left: 1%;
+    
+  }
+  #Feed1 p {
+    font-size: 15px;
+    color:black;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-seri;
+    font-style: italic;
+  }
+  .Feed3  {
+    display: flex;
+  }
+  .Feed img  {
+    margin-left: 50%;
+  }
+  
+  
+  #Feed1 {
+    margin-right: 20% ;
+  }
+  .Feed #Feed1 img {
+    margin-top: 1000%;
+  }
+  .care {
+    border-style: solid groove;
+    text-align: center;
+    border-radius: 5%;
+    border: hidden;
+    background-color: honeydew;
+  }
+  body {
+    background-image: url("petimages/dog.jpg" );
+    background-size: contain;
+    background-repeat: no-repeat;
+  
+  }
+  .H {
+    display: flex;
+    background-color: honeydew;
+  }
+  .H img {
+    margin-left: 150%;
+    margin-bottom: 100%;
+  }
+  .ft {
+    margin-left: 0%
+    
+  }
+  .con >ul{
+    margin-left: 40%;
+  
+  }
+  .last {
+   margin-left: 80%;
+  }
+  
+  
